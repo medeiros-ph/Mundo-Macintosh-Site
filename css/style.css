@@ -514,3 +514,7 @@ h6,
    position: relative;
   }
   
+.bg-mundo-macintosh {
+    background-color: #006494;
+    background-size: cover;
+}
