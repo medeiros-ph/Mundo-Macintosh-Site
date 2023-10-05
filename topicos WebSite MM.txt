@@ -1,17 +1,18 @@
 
 Serviços WebSite - Mundo Macintosh
 
-- Reparo em Placa Lógica;
+✅ - Reparo em Placa Lógica;
 - Reparo em Placas de iPhones;
-- Reparo no cabo do carregador: MagSafe e MagSafe 2;
+✅ - Reparo no cabo do carregador: MagSafe e MagSafe 2;
 - Substituição de vidro quebrado na tela frontal e traseira do iPhone e Apple Watch;
 - Substituição de baterias em iPhones;
+✅ - Substituição Vidro Quebrado em Macs
 - Instalação e Configuração de upgrade para SSD (M2 e iMac fininho);
 - Instalação e Configuração de Macs novos e usados;
 - Instalação e Configuração de Applicativos em Macs;
 - Instalação e Configuração de Infraestrutura de Redes/Wifi/Mesh/Airports
 - Manutenção preventiva: Limpeza interna / troca de pasta térmica
-- Backup de Macs;
+✅ - Backup de Macs;
 - Acesso remoto;
 
 
@@ -29,7 +30,7 @@ Blog WebSite - Mundo Macintosh
 - Danos permanentes causados pela Maresia nos Macs;
 - Diferenças entre Arquiteturas: Chip Intel e Apple Silicon (M1 2 M2)
 - Apple Care;
-- Progrmas de Qualidade (Recall);
+- Programas de Qualidade (Recall);
 - Virus no Mac (Malware)
 - PRAM
 - Reparar permissão de disco;
