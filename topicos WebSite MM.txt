@@ -23,13 +23,13 @@ Blog WebSite - Mundo Macintosh
 ✅ - Últimas versões do Mac OS e link para download;
 ✅ - Acentuação no Mac OS;
 ✅ - Backup Time Machine (Mac);
-- Configurando e-mail no Apple Mail;
+✅ - Configurando e-mail no Apple Mail;
 - Configuração de iCloud (Mac);
 - Configuração de iCloud (Windows);
 - Cuidados com a bateria;
 - Danos permanentes causados pela Maresia nos Macs;
-- Diferenças entre Arquiteturas: Chip Intel e Apple Silicon (M1 2 M2)
-- Apple Care;
+✅ - Diferenças entre Arquiteturas: Chip Intel e Apple Silicon (M1 2 M2)
+✅ - Apple Care;
 - Programas de Qualidade (Recall);
 - Virus no Mac (Malware)
 - PRAM
