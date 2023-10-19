@@ -237,6 +237,43 @@ h6,
     }
 }
 
+/* TESTE RESPONSIVIDADE */
+/* TESTE RESPONSIVIDADE */
+/* TESTE RESPONSIVIDADE */
+
+@media screen and (max-width: 414px) {
+    .carousel-caption h5 {
+        font-size: 14px;
+        font-weight: 300 !important;
+    }
+
+    .carousel-caption h1 {
+        font-size: 25px;
+        font-weight: 400 !important;
+    }
+    .logo {
+        width: 150px;
+    }
+    .navbar {
+        background-color: #091E3E;
+    }
+    .novoPam{
+        margin-top: 0%;
+        margin-bottom: 0%;
+        width: 32%;
+    }
+    /*.ps-4 {
+        width: 50%;
+    }*/
+    .ps-4 h5 {
+        font-size: 10px;
+    }
+    .ps-4 h1 {
+        font-size: 13px;
+    }
+
+}
+
 .carousel-control-prev,
 .carousel-control-next {
     width: 10%;
