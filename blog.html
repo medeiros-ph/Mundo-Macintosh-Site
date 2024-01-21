@@ -66,16 +66,20 @@
     <!-- Topbar End -->
 
 
-    <!-- Navbar Start -->
+    <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
             <a href="index.html" class="navbar-brand p-0">
-                <img src="./img/Logo MM sem fundo branca.png">
-                <!--<h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1>-->
+                <img class="logo" src="./img/Logo MM sem fundo brancayy.png">
+                <!--./img/Logo MM sem fundo branca.png  Cor Prata do Mac logo antigo-->
+              <!--  <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1>-->
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
             </button>
+            <div class="btn-abrir-menu" id="btn-menu">
+                <i class="bi bi-list"></i>
+            </div> 
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
                     <a href="index.html" class="nav-item nav-link">Home</a>
@@ -85,9 +89,31 @@
                     <a href="quote.html" class="nav-item nav-link">Orçamento</a>                    
                     <a href="contact.html" class="nav-item nav-link">Contato</a>
                     <a href="https://linktr.ee/mundo_macintosh" class="nav-item nav-link"> Loja </a>
-                </div>        
+                </div>
+                <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>         
             </div>
         </nav>
+
+        <div class="overlay-menu" id="overlay-menu"></div>
+        
+        <div class="menu-mobile" id="menu-mobile">
+            <div class="btn-fechar">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                    <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z"/>
+                  </svg>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="">Home</a></li>
+                    <li><a href="about.html" class="">Sobre</a></li>
+                    <li><a href="service.html" class="">Serviços</a></li>
+                    <li><a href="blog.html" class="">Blog</a></li>       
+                    <li><a href="quote.html" class="">Orçamento</a></li>                    
+                    <li><a href="contact.html" class="">Contato</a></li>
+                    <li><a href="https://linktr.ee/mundo_macintosh" class=""> Loja </a></li>
+                </ul>
+            </nav>
+        </div>
 
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
